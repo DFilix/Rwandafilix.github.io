@@ -3,6 +3,8 @@
 * {
   margin: 0;
   padding: 0;
+  width: 100%;
+  height: 100%;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
@@ -66,7 +68,7 @@ section {
 /* Video player Styling */
 .container .video_player {
   position: relative;
-  width: 700px;
+  width: 100%;
   height: 100%;
   background: #000;
   overflow: hidden;
